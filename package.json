@@ -1,0 +1,26 @@
+{
+  "name": "postcss-sorting-flex-issue",
+  "version": "1.0.0",
+  "description": "Example of incorrect sorting in postcss-sorting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwighthouse/postcss-sorting-flex-issue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwighthouse/postcss-sorting-flex-issue/issues"
+  },
+  "homepage": "https://github.com/dwighthouse/postcss-sorting-flex-issue#readme",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-postcss": "7.0.0",
+    "gulp-rename": "1.2.2",
+    "postcss-cssnext": "2.11.0",
+    "postcss-sorting": "3.0.0"
+  }
+}

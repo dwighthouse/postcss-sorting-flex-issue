@@ -1,0 +1,14 @@
+.header {
+            align-items: center;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+        -ms-flex-align: center;
+        -ms-flex-pack: justify;
+        flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+            justify-content: space-between;
+    padding-bottom: 20px;
+}
