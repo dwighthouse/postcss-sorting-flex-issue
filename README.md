@@ -1,3 +1,7 @@
+> The issue was reported and has now been fixed in postcss-sorting:
+> https://github.com/hudochenkov/postcss-sorting/issues/68
+> This repository is now no longer necessary, archived.
+
 # postcss-sorting-flex-issue
 Example of incorrect sorting in postcss-sorting.
 
